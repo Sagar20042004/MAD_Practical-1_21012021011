@@ -6,6 +6,7 @@ AIM 1.2:Integer to Double, String to Integer, String to Double
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/94b1b54f-b5cc-4f64-84ed-ab78fd0987b4)
 
 AIM 1.3: Scan student’s information and display all the data.
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/09e63dc6-0e60-4d4f-a69e-424f90f16fd4)
 
 AIM 1.4:Find the number is odd or even by using Control Flow inside println() method.
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/fc9aa157-4800-4028-b1ec-762dd36b3574)
