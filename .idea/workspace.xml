@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abc303-1f72-4645-9979-d1f2c0c7feed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Practical_1_5Kt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Practical_1_6Kt">
     <configuration name="Practical_1_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical_1_1Kt" />
+      <module name="MAD_Practical-1_21012021011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practical_1_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical_1_2Kt" />
       <module name="MAD_Practical-1_21012021011" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,10 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practical_1_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical_1_6Kt" />
+      <module name="MAD_Practical-1_21012021011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practical_1_6Kt" />
         <item itemvalue="Kotlin.Practical_1_5Kt" />
         <item itemvalue="Kotlin.Practical_1_4Kt" />
+        <item itemvalue="Kotlin.Practical_1_2Kt" />
         <item itemvalue="Kotlin.Practical_1_1Kt" />
       </list>
     </recent_temporary>
@@ -80,6 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1689302218461</updated>
     </task>
+    <task id="LOCAL-00001" summary="practical-1.3.kt">
+      <option name="closed" value="true" />
+      <created>1689649864381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689649864381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practical-1.3.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="practical-1.3.kt" />
   </component>
 </project>

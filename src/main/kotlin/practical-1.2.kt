@@ -1,5 +1,4 @@
 fun main() {
-    fun main(){
         var a = 10
         var b = "1204"
         var c = 10.45
@@ -9,14 +8,12 @@ fun main() {
         var s : Int = b.toInt()
         var x : Double = a.toDouble()
 
+        println("Bheda sagar / 21012021011")
         println("Integer value : $a")
         println("Double value (From integer) : $e")
         println("String value is :$b")
         println("Integer value (From string) : $s")
         println("Double value (From string) : $x")
-
-
-    }
 
 
 
