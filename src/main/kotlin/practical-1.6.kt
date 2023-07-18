@@ -11,6 +11,7 @@ fun main(){
     println("Enter num2 :")
     var num2 = reader.nextDouble()
 
+    println("Bheda sagar / 2101201011")
     var sum = add(num1 , num2)
     var x = sub(num1, num2)
     var y = mul(num1, num2)
