@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abc303-1f72-4645-9979-d1f2c0c7feed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.6.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +33,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Kotlin.Practical_1_6Kt">
     <configuration name="Practical_1_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical_1_1Kt" />
