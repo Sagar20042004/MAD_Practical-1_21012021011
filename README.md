@@ -14,4 +14,5 @@ AIM 1.5: Display month name using When
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/e7568270-66dc-465f-be6b-f40ce4b6e338)
 
 AIM 1.6: By using a user defined function perform all arithmetic operations.
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/c8982df0-b1e0-4b1b-b12a-4a12ccfe5b42)
 
