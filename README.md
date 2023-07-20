@@ -26,6 +26,9 @@ AIM 1.7:Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/10bc04a9-8c72-4101-83f7-a8b0e2194742)
 
+AIM 1.8:Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+
 
 
 
