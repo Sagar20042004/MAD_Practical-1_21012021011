@@ -1,5 +1,6 @@
 # MAD_Practical-1_21012021011
 AIM 1.1:Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/60d4136a-4ab5-4585-8fcb-6d2088f6fcac)
 
 AIM 1.2:Integer to Double, String to Integer, String to Double
