@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abc303-1f72-4645-9979-d1f2c0c7feed" name="Changes" comment="practical-1.6.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.8.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/practical-1.8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.8.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

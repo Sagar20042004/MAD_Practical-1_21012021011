@@ -2,6 +2,7 @@ import java.util.Scanner
 
 fun main(){
 
+    println("Bheda sagar / 21012021011")
     var reader = Scanner(System.`in`)
 
     var a1 = Array<Int>(5){0}
@@ -53,6 +54,7 @@ fun main(){
     )
     print(arr.contentDeepToString())
 
+    println()
     println("Enter the array size : ")
 
 
@@ -62,6 +64,19 @@ fun main(){
 
     var a7 = Array<Int>(size) { readLine()!!.toInt()}
     println(a7.contentToString())
+
+    println("Sorted array is :")
+    a7 = a7.sortedArray()
+    println(a7.contentToString())
+
+
+    println("Sort the array without using built in function")
+    println("Array without sorting : ")
+    println(a7.contentToString())
+
+    println("Sorted array :")
+    sortArray(a7)
+
 
 }
 
@@ -81,4 +96,18 @@ fun arrayReverse(array : Array<Int>){
     for (k in array.size-1 downTo 0){
         print("${array[k]} , ")
     }
+}
+
+fun sortArray(array : Array<Int>){
+    var temp = 0
+    for(g in 0..array.size-1){
+        for (x in 0 until g){
+            if (array[g] < array[x]){
+                temp = array[g]
+                array[g] = array[x]
+                array[x] = temp
+            }
+        }
+    }
+    println(array.contentToString())
 }
