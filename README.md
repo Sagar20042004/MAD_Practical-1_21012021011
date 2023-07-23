@@ -32,3 +32,7 @@ AIM 1.8:Create different types of Array as shown in image. Explore Arrays.deepTo
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/e11f9a17-48c0-4e73-bdb3-759b3c706ac2)
 
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/ae0a801f-ac48-4336-912e-84a6ab64cc05)
+
+AIM 1.9:Find the max number from ArrayList.
+
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/bc4c9f11-1992-4e84-b2b2-f42c544a9467)
