@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30abc303-1f72-4645-9979-d1f2c0c7feed" name="Changes" comment="practical-1.6.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical-1.9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/practical_class.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Practical_1_9Kt">
+  <component name="RunManager" selected="Kotlin.Practical_classKt">
     <configuration name="Practical_1_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practical_1_3Kt" />
-      <module name="MAD_Practical-1_21012021011" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practical_1_6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical_1_6Kt" />
       <module name="MAD_Practical-1_21012021011" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Practical_classKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical_classKt" />
+      <module name="MAD_Practical-1_21012021011" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practical_classKt" />
         <item itemvalue="Kotlin.Practical_1_9Kt" />
         <item itemvalue="Kotlin.Practical_1_8Kt" />
         <item itemvalue="Kotlin.Practical_1_7Kt" />
         <item itemvalue="Kotlin.Practical_1_3Kt" />
-        <item itemvalue="Kotlin.Practical_1_6Kt" />
       </list>
     </recent_temporary>
   </component>
