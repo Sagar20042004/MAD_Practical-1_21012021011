@@ -36,3 +36,14 @@ AIM 1.8:Create different types of Array as shown in image. Explore Arrays.deepTo
 AIM 1.9:Find the max number from ArrayList.
 
 ![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/bc4c9f11-1992-4e84-b2b2-f42c544a9467)
+
+AIM 1.10:Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/5ad65d69-b25b-4e0d-ac68-817eaa4f1808)
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/86e78e8a-e47a-4d9d-ada9-b67bed42e8c6)
+
+
+AIM 1.11:Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/0a0790e2-5be8-4e50-b6fd-d34b5d541cb4)
+![image](https://github.com/Sagar20042004/MAD_Practical-1_21012021011/assets/98373145/9dbea980-94f8-4bb8-b638-91a9ba2178c3)
