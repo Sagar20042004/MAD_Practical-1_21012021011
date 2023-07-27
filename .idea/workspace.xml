@@ -41,16 +41,16 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Practical_classKt">
-    <configuration name="Practical_1_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical_1_3Kt" />
+  <component name="RunManager" selected="Kotlin.Practical_1_11Kt">
+    <configuration name="Practical_1_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical_1_10Kt" />
       <module name="MAD_Practical-1_21012021011" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practical_1_7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practical_1_7Kt" />
+    <configuration name="Practical_1_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practical_1_11Kt" />
       <module name="MAD_Practical-1_21012021011" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Practical_1_11Kt" />
+        <item itemvalue="Kotlin.Practical_1_10Kt" />
         <item itemvalue="Kotlin.Practical_classKt" />
         <item itemvalue="Kotlin.Practical_1_9Kt" />
         <item itemvalue="Kotlin.Practical_1_8Kt" />
-        <item itemvalue="Kotlin.Practical_1_7Kt" />
-        <item itemvalue="Kotlin.Practical_1_3Kt" />
       </list>
     </recent_temporary>
   </component>
