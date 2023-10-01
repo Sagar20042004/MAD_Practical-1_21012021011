@@ -3,13 +3,13 @@ import java.util.Scanner
 fun main(){
 
     println("Bheda sagar / 21012021011")
-    var reader = Scanner(System.`in`)
+
 
     println("Enter num1 :")
-    var num1 = reader.nextDouble()
+    var num1 = readLine()!!.toDouble()
 
     println("Enter num2 :")
-    var num2 = reader.nextDouble()
+    var num2 = readLine()!!.toDouble()
 
     println("Bheda sagar / 2101201011")
     var sum = add(num1 , num2)

@@ -3,9 +3,8 @@ import java.util.Scanner
 fun  main(){
 
     println("Bheda sagar / 21012021011")
-    var reader = Scanner(System.`in`)
     println("Enter the array size : ")
-    var size = reader.nextInt()
+    var size = readLine()!!.toInt()
 
     println("Enter the element : ")
     var arr = Array<Int>(size) { readLine()!!.toInt() }

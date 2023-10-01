@@ -2,8 +2,6 @@ import java.util.Scanner
 
 fun main() {
 
-    var reader  = Scanner(System.`in`)
-
     println("Student Enrollment No. :")
     var a = readLine()
 
@@ -26,12 +24,13 @@ fun main() {
     var g = readLine()
 
     println("Student Age :")
-    var h = reader.nextInt()
+    var h = readLine()
 
     println("STUDENT DATA")
-    println("Enrollment no : $a")
+
+    println("Enrollment no : ${a?.toString()}")
     println("Name : $b")
-    println("Age : $h")
+    println("Age : ${h?.toInt()}")
     println("branch : $c")
     println("Class : $d")
     println("Batch : $f")

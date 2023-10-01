@@ -1,11 +1,10 @@
 import java.util.Scanner
 
 fun main(){
-    var reader = Scanner(System.`in`)
 
     println("Bheda sagar / 21012021011")
     println("Enter the number : ")
-    var num = reader.nextInt()
+    var num = readLine()!!.toInt()
 
     var x = fect(num)
     println("factorial is :$x")

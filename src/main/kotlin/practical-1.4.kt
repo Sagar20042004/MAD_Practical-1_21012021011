@@ -1,12 +1,12 @@
 import java.util.Scanner
 
-fun main(){
+fun main(){ println("21012021011 || Sagar Bheda")
+    println("Enter a Number: ");
+    val n1 = readLine()?.toInt()
 
-    var reader = Scanner(System.`in`)
-
-    println("Bhda sagar / 21012021011")
-    println("Enter the number : ")
-    var x = reader.nextInt()
-    var evenOdd = if (x.toInt() % 2 == 0) "even" else "odd"
-    println("$x is $evenOdd")
+    if (n1 != null) {
+        if(n1 % 2 == 0)
+            println("$n1 is an Even Number") else
+            println("$n1 is an Odd Number")
+    }
 }

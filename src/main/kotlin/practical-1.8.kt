@@ -3,7 +3,6 @@ import java.util.Scanner
 fun main(){
 
     println("Bheda sagar / 21012021011")
-    var reader = Scanner(System.`in`)
 
     var a1 = Array<Int>(5){0}
     println("Created array with use of Array<> method")
@@ -58,7 +57,7 @@ fun main(){
     println("Enter the array size : ")
 
 
-    var size:Int = reader.nextInt()
+    var size:Int = readLine()!!.toInt()
 
     println("Enter the value of array")
 
